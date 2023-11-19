@@ -1,4 +1,0 @@
-eureka:
-  client:
-    service-url:
-      defaultZone: http://eureka01:7071/eureka,http://eureka02:7072/eureka
